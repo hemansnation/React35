@@ -1,6 +1,15 @@
 # React35
 35 Days of ReactJS
 
+The training is divided into 4 Sections:
+
+1. HTML
+2. CSS
+3. JavaScript
+4. ReactJS
+
+Here is the Roadmap of 35 Days.
+
 # HTML Refresher
 
 ### Day 1 
