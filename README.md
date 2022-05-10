@@ -8,7 +8,7 @@ The training is divided into 4 Sections:
 3. JavaScript
 4. ReactJS
 
-Here is the Roadmap of 35 Days.
+This is what we are going to cover in 35 Days.
 
 # HTML Refresher
 
