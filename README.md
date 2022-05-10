@@ -7,6 +7,10 @@ The training is divided into 4 Sections:
 2. CSS
 3. JavaScript
 4. ReactJS
+5. Live Projects 
+6. Projects 15+
+7. Git and GitHub
+8. Profile Building
 
 This is what we are going to cover in 35 Days.
 
