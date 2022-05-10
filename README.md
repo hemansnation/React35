@@ -38,7 +38,7 @@ Textarea, select, fieldset, legend.
 - How to preview the image with file input type?
 
 
-# CSS
+# CSS Refresher
 
 ### Day 2
 
