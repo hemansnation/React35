@@ -42,3 +42,32 @@ Textarea, select, fieldset, legend.
 
 ### Day 2
 
+Selector, Class and id , Comment, border, color, background- color, image, repeat, attachment,
+
+Border - style , width, color, shorthand, border-radius
+
+Margin - top, right, bottom, left
+
+Padding -
+
+What is box model?
+
+Universal selector *
+
+Text align - left, center, justify, text-decoration - overline, none, under-line, line-through, text-transform, text-indent
+
+#### Interview Questions
+
+- What is CSS?
+- What is CSS Ruleset?
+- How many ways to use CSS in a webpage?
+- What is the difference between Pseudo-classes and pseudo-elements?
+- What is the difference between class selectors and id selectors?
+
+
+# JavaScript
+
+### Day 3
+
+
+
