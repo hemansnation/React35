@@ -1,0 +1,51 @@
+/* body{
+    background-color: aqua;
+} */
+
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    color: red;
+}
+
+/* id */
+
+#indore{
+    background-color: blueviolet;
+}
+
+#goa{
+    text-align: center;
+    color: red;
+}
+
+.india{
+    text-align: right;
+    color: black;
+    background-color: white;
+}
+
+.division{
+    border-color: red;
+    border-style: solid;
+    border-width: 5px;
+    padding: 40px;
+}
+
+.division1{
+    border-color: green;
+    border-style: solid;
+    border-width: 5px;
+    margin-top: 20px;
+
+}
+
+.deo{
+    border: 2px dashed red ;
+}
+
+a{
+    text-decoration:line-through ;
+}
