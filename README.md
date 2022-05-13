@@ -73,5 +73,17 @@ Text align - left, center, justify, text-decoration - overline, none, under-line
 
 ### Day 3
 
+JavaScript - How it works?
+
+Add it into a HTML file
+
+Variables, Operators
+
+#### Interview Questions
+
+- How to add it with HTML?
+- How console works?
+- What is Document?
+- How variables work in JS?
 
 
