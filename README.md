@@ -99,3 +99,9 @@ practice questions
 #### Interview Question
 
 
+### Day 5
+
+JavaScript Project
+
+Captcha Generator
+
