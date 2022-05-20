@@ -105,3 +105,10 @@ JavaScript Project
 
 Captcha Generator
 
+
+### Day 6
+
+JavaScript Projects Part 2
+
+Captcha Generator
+
