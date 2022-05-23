@@ -112,3 +112,17 @@ JavaScript Projects Part 2
 
 Captcha Generator
 
+
+### Day 7
+
+JavaScript Array object, different types of array representations.
+
+Methods for stack and queue operations, push pop shift unshift.
+
+Array with for loop, for in , for of,
+
+Multidimensional array
+
+Other important methods: - splice, slice, concat, foreach, indexOf, lastIndexOf, includes, find, filter, reverse, split, join
+
+Array.isArray
