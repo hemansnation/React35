@@ -137,3 +137,16 @@ Special characters: new line character, length,
 Strings are immutable
 
 String methods: charAt, toUpperCase, toLowerCase, indexOf, includes, startsWith, endsWidth, slice, substring, substr
+
+
+### Day 9
+
+JavaScript Objects
+
+### Day 10
+
+JavaScript Project Speech Recognition
+
+### Day 11
+
+Functions
