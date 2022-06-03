@@ -150,3 +150,9 @@ JavaScript Project Speech Recognition
 ### Day 11
 
 Functions
+
+Arrow functions
+
+### Day 12
+
+JavaScript Classes
