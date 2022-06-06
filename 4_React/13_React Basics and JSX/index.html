@@ -1,0 +1,84 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>React Basics</title>
+</head>
+<body>
+    <div id="root"></div>
+
+    <!-- 
+        JSX
+        - JavaScript XML
+        - Extensible Markup Language
+     -->
+
+     <!-- <username>rahul123</username>
+     <age>21</age> -->
+
+     <!-- 
+         .js - vanilla javascript
+         .jsx - javascript xml
+         - transcompiler - babel
+         translate jsx code into js code
+      -->
+
+      <!-- 
+          cdn
+          - content delivery network
+       -->
+    
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.0.0-beta.3/babel.min.js"></script>
+    
+    <script type="text/babel">
+        // jsx code
+        // console.log(React);
+
+        const rootElement = document.getElementById('root');
+
+        // const jsxElement = <h1>This is JSX Element</h1>
+
+        const header = (
+            <header>
+                <h1>Welcome</h1>
+                <h2>First React Session</h2>
+                <h3>React is a JavaScript Library</h3>
+                <p>Himanshu</p>
+                <small>June 6, 2022</small>
+            </header>
+        )
+
+        const main = (
+            <main>
+                <p>this is javascript and reaact session</p>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                </ul>
+            </main>
+        )
+
+        const footer = (
+            <footer>
+                <p>Copyright 2022</p>
+            </footer>
+        )
+
+        const app = (
+            <div>
+               {header}
+               {main}
+               {footer}
+            </div>
+        )
+
+        ReactDOM.render(app, rootElement);
+    </script>
+    
+</body>
+</html>
