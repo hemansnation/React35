@@ -174,4 +174,9 @@ React first app
 - JSX elements
 - 
 
+### Day 16
+
+- Components
+
+
 
