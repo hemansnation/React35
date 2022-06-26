@@ -162,21 +162,111 @@ JavaScript Classes
 
 React Basics
 
+Why React?
+
+CDN - unpkg - React, ReacrDOM and babel
+
+Understanding JSX (JavaScript XML)
+
+- JSX Elements
+- Comment
+- Rendering JSX
+- Style and className in JSX
+- Injecting data into JSX
+
+#### Interview Questions
+- What is babel?
+- What is transpiler?
+- What is single page application?
+- What is DOM?
+- What is Virtual DOM?
+
 
 ### Day 14
 
 React create-react-app
 
+Install these extensions from Visual Studio Code
+
+- Prettier
+- ESLint
+- Bracket Pair Colorizer
+- ES7 React/Redux/GraphQL/React-Native snippets
+- create-react-app
+
+adding first JSX code with react
+
+#### Interview Questions
+- What is module?
+- What is package?
+- What is NPM?
+- What is webpack?
+
 ### Day 15
 
 React first app
 
-- JSX elements
-- 
+- add jsx and render the content
+- Inject Data into JSX
+- Add image in the page
 
 ### Day 16
 
 - Components
 
+- Functional Component / Presentational Component / Stateless Component / Dumb Component
+- Class Component / Container Component/ Statefull Component / Smart Component
+
+Rendering React Components
+
+#### Interview Questions
+- What is React Component?
+- Difference between normal function and arrow function.
+- How to make reusable react components?
+- How small is a React component?
+- What is the difference between a pure JavaScript function and a functional component?
+
+
+
+### Day 17
+
+React Props
+
+Props in functional Components
+
+String Props
+
+#### Interview Questions
+- What is props in a React component ?
+- How do you access props in a React component ?
+- What data types can we pass as props to components ?
+
+
+### Day 18
+
+React Map List Keys
+
+Working of Map function with Numbers, arrays of arrays, arrays of object.
+
+Key mapping,
+
+#### Interview Questions
+- Why you need to map an array ?
+- Why we need keys during mapping an array ?
+
+
+### Day 19
+
+React Class Components Statefull components
+
+Class Components, props in class components, methods in class components.
+
+Convert all the functional components into class components.
+
+#### Interview Questions
+- What is inheritance and how do you make a child from a parent class?
+- What is class based React component ?
+- What is the difference between functional React component and class based React component ?
+- When do we need to use class based components instead of functional components
 
 
