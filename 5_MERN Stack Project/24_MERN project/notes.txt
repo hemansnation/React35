@@ -1,0 +1,12 @@
+authentication system
+
+register
+login
+access to protected pages
+stayed login even if he closed the app
+
+
+backend - nodejs
+database - mongodb
+fronend - reactjs
+
