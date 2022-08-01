@@ -15,7 +15,7 @@ app.use(
 );
 
 // db config
-const db = ""
+const db = require('./config/keys').mongoURI
 
 // connect to mongoDB
 
